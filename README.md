@@ -1,4 +1,4 @@
-# Instagram Clone Project(https://github.com/beneyup/SQL-Projects/tree/master-branch)
+# [Instagram Clone Project](https://github.com/beneyup/SQL-Projects/tree/master-branch)
 In this project, we'll investigate a database and find answers for questions like :
 * What day of the week do most users register on?
 * Which users have not posted any photos?
